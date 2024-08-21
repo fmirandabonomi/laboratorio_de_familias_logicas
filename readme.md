@@ -17,7 +17,7 @@ Los objetivos de este proyecto son los siguientes:
    8. Construcción de las funciones lógicas básicas a partir de la función NAND.
    9. Descripción de la construcción y funcionamiento de un oscilador de anillo.
    10. Descripción de la construcción y funcionamiento de un cerrojo RS a partir de compuertas NAND.
-2. Analizar la hoja de datos de una compuerta lógica 75HC00 y obtener lo siguiente
+2. Analizar la hoja de datos de una compuerta lógica 74HC00 y obtener lo siguiente
    1. Función lógica que implementa
    2. Distribución de pines del circuito integrado
    3. Tensión de alimentación
@@ -26,7 +26,7 @@ Los objetivos de este proyecto son los siguientes:
 3. Observar experimentalmente las características eléctricas estáticas
 4. Construir un oscilador de anillo y a partir de la observación de su comportamiento encontrar las características dinámicas ($t_\text{PLH}$ y $t_\text{PHL}$) de las compuertas utilizadas.
 5. Construir y observar el funcionamiento de los siguientes circuitos lógicos construidos en base a la compuerta:
-   1. Funcion lógica NOT
+   1. Función lógica NOT
    2. Función lógica AND
    3. Función lógica OR
    4. Cerrojo RS con habilitación
@@ -34,14 +34,14 @@ Los objetivos de este proyecto son los siguientes:
 
 ## Entregables
 
-Deberás producir un informe sobre conteniendo los resultados de la investigación bibliográfica y las experiencias realizadas. A continuación indicamos la estructura del informe, el contenido de cada sección y los criterios de evaluación que deben aplicarse para su calificación.
+Deberás producir un informe conteniendo los resultados de la investigación bibliográfica y las experiencias realizadas. A continuación indicamos la estructura del informe, el contenido de cada sección y los criterios de evaluación que deben aplicarse para su calificación.
 
 - *Título*. El título (ya dado) será *Laboratorio de familias lógicas*
 - *Autor*. Esta sección debe contener tus datos personales
 - *Resumen*. (1 punto)
   - Describir brevemente el contenido del informe
   - Criterios de evaluación:
-    - Explica de forma clara de que trata el infome. Esto es, sin leer el resto del informe y solo en base al resumen un lector puede comprender que se investigó y que experiencias se llevaron a cabo.
+    - Explica de forma clara de que trata el informe. Esto es, sin leer el resto del informe y solo en base al resumen un lector puede comprender que se investigó y que experiencias se llevaron a cabo.
 - *Introducción*. (2 puntos)
   - Exponer los resultados de la investigación del objetivo 1.
   - Plantear los objetivos de la experiencia de laboratorio (objetivos 3, 4 y 5)
