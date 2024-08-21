@@ -11,6 +11,8 @@ Los objetivos de este proyecto son los siguientes:
    2. Concepto de compuerta lógica
    3. Concepto de familia lógica
    4. Características estáticas y dinámicas de una compuerta lógica
+   5. Descripción de la construcción y funcionamiento de un oscilador de anillo.
+
 2. Analizar la hoja de datos de una compuerta lógica 74HC00 y obtener lo siguiente
    1. Función lógica que implementa
    2. Distribución de pines del circuito integrado
@@ -34,7 +36,7 @@ Deberás producir un informe conteniendo los resultados de la investigación bib
   - Exponer los resultados de la investigación del objetivo 1.
   - Plantear los objetivos de la experiencia de laboratorio (objetivos 3 y 4)
   - Criterios de evaluación:
-    - Expone los temas 1.1 a 1.4 en forma clara
+    - Expone los temas 1.1 a 1.5 en forma clara
     - Incluye figuras y tablas necesarias
     - Al exponer los temas cita las fuentes consultadas según normas APA, puedes consultar (Sanchez, 2019).
 - *Materiales y Métodos.* (2,5 puntos)
