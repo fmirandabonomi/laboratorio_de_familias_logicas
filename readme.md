@@ -1,6 +1,6 @@
-# Proyecto 1. Laboratorio de familias lógicas
+# Actividad 1. Laboratorio de familias lógicas
 
-Electrónica II para Ing. Electrónica. 2024
+Electrónica II para Ing. Electrónica 2025
 
 ## Objetivos
 
@@ -71,18 +71,6 @@ Deberás producir un informe conteniendo los resultados de la investigación bib
   - Criterios:
     - Todas las referencias corresponden a citas en el texto
     - Respeta el formato APA (pudiendo desviarse según lo indicado)
-
-## Exposición oral (aleatoria)
-
-- La presentación será los días Martes de 8:00 a 8:10, con un espacio posterior de cinco minutos para preguntas
-- Debe presentar brevemente con auxilio de la pizarra o diapositivas *ilustrativas* el procedimiento realizado, los resultados obtenidos y como se interpretan en base a la teoría.
-- Criterios de evaluación:
-  - (2 puntos) Hace un buen uso del tiempo
-  - (2 puntos) Explica brevemente el procedimiento realizado
-  - (2 puntos) Presenta puntualmente los resultados obtenidos
-  - (2 puntos) Analiza como se relacionan los resultados con el marco teórico
-  - (2 puntos) Es capaz de responder preguntas específicas sobre lo realizado
-  - Si usa diapositivas, estas son solo auxilio a la exposición y no un texto replicando la exposición (penaliza si falla).
 
 ## Referencias
 
